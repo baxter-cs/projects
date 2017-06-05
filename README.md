@@ -17,6 +17,14 @@ In order to overcome these challenges, CAAL is utilizing the WISDM Activity Reco
 
 - Weka
 
+## [peterberetich/BaxterSite](https://github.com/peterberetich/BaxterSite)
+
+The school's old website (the second one)
+
+### Tech Stack
+
+- PHP
+
 ## [InnocuousAchilles/steamworks-scouting](https://github.com/InnocuousAchilles/steamworks-scouting)
 
 A multiplatform scouting app for FRC Steamworks.
