@@ -46,15 +46,6 @@ A multiplatform scouting app for FRC Steamworks.
 - Redux
 - Python
 
-## [frc5687/2017-protobot](https://github.com/frc5687/2017-protobot)
-
-Robotic team's robot code.
-
-### Tech Stack
-
-- Misc. Java Libraries
-- Travis CI
-
 ## [frc5687/2017-pi-tracker](https://github.com/frc5687/2017-pi-tracker)
 
 Robotics team's vision tracking code.
@@ -63,3 +54,12 @@ Robotics team's vision tracking code.
 
 - OpenCV
 - GRIP
+
+## [frc5687/2017-protobot](https://github.com/frc5687/2017-protobot)
+
+Robotic team's robot code.
+
+### Tech Stack
+
+- Misc. Java Libraries
+- Travis CI
