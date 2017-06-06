@@ -48,12 +48,38 @@ A multiplatform scouting app for FRC Steamworks.
 
 ## [frc5687/2017-pi-tracker](https://github.com/frc5687/2017-pi-tracker)
 
-Robotics team's vision tracking code.
+Robotics team's vision tracking code for the raspberry pi coprocessor.
+
+Utilized by a few other teams.
 
 ### Tech Stack
 
 - OpenCV
 - GRIP
+
+## [baxter-cs/baxter-app](https://github.com/baxter-cs/baxter-app)
+
+Scrum board app to increase Synergy within a group or organize your chaotic life.
+
+### Accolades
+
+- Congressional App Challenge 2016 - Maine Winner
+
+## [baxter-cs/chuckit](https://github.com/baxter-cs/chuckit)
+
+Don't want your phone anymore? Just ChuckIt
+
+### Platforms
+
+- Android [(Google Play Store)](https://play.google.com/store/apps/details?id=academy.baxter.throwgame)
+
+### Accolades
+
+- 2nd Annual Tyler Tech Maine App Challenge Finalist
+
+## [HiTechChad/FindBaxter](https://github.com/HiTechChad/FindBaxter)
+
+Web App for communicating with teachers via text privetly without sharing cellphone numbers.
 
 ## [frc5687/2017-protobot](https://github.com/frc5687/2017-protobot)
 
@@ -63,3 +89,7 @@ Robotic team's robot code.
 
 - Misc. Java Libraries
 - Travis CI
+
+### Accolades
+
+- Controls Tony, a robot that was in the 4th place alliance on STL Einstein.
